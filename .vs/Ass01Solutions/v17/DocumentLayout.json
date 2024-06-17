@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SourceCode\\PRN221\\Ass01Solutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminmembercreate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminproductcreate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\cartwindown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\styleresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\myorderwindown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\resource\\icon\\shopping-cart.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\resource\\images\\iphone.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminmember.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\untils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\untils\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\model\\memberfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\model\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\salewpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\adminproductcreate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAD52E-4EF0-437B-B741-46C8FFBF4382}|..\\SaleWPFApp\\SaleWPFApp.csproj|e:\\sourcecode\\prn221\\salewpfapp\\cartwindown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077600E7-39F3-4510-BE72-EBBE0FB4B469}|..\\BusinessObject\\BusinessObject.csproj|e:\\sourcecode\\prn221\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AB966-6E0F-4239-8D64-344CF908B70B}|..\\DataAccess\\DataAccess.csproj|e:\\sourcecode\\prn221\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077600E7-39F3-4510-BE72-EBBE0FB4B469}|..\\BusinessObject\\BusinessObject.csproj|e:\\sourcecode\\prn221\\businessobject\\model\\productmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 427,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\App.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\App.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:25:51.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminProductCreate.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminProductCreate.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminProductCreate.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminProductCreate.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminProductCreate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:25:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AssemblyInfo.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:49:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminProduct.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminProduct.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminProduct.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminProduct.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:26:17.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminOrder.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminOrder.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminOrder.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminOrder.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:27:54.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminMemberCreate.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminMemberCreate.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminMemberCreate.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminMemberCreate.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminMemberCreate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:29:29.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartWindown.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\CartWindown.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\CartWindown.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\CartWindown.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\CartWindown.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T08:53:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Home.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\Home.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Home.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T08:53:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\MainWindow.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T08:52:28.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyOrderWindown.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\MyOrderWindown.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\MyOrderWindown.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\MyOrderWindown.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\MyOrderWindown.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:19:24.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StyleResource.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\StyleResource.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\StyleResource.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\StyleResource.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\StyleResource.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T10:40:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminManager.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminManager.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminManager.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminManager.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T08:53:01.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminManager.xaml.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminManager.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminManager.xaml.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminManager.xaml.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminManager.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:51:42.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\appsettings.json",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\appsettings.json",
+              "RelativeToolTip": "..\\SaleWPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T08:53:15.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "shopping-cart.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Resource\\icon\\shopping-cart.png",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\Resource\\icon\\shopping-cart.png",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Resource\\icon\\shopping-cart.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "..\\SaleWPFApp\\Resource\\icon\\shopping-cart.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-16T10:14:58.377Z",
+              "EditorCaption": " - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminMember.xaml",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminMember.xaml",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminMember.xaml",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminMember.xaml",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminMember.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T08:53:07.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "iphone.png - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Resource\\images\\iphone.png",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\Resource\\images\\iphone.png",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Resource\\images\\iphone.png - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "..\\SaleWPFApp\\Resource\\images\\iphone.png - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-16T10:32:05.415Z",
+              "EditorCaption": " - PNG [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminOrder.xaml.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminOrder.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminOrder.xaml.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminOrder.xaml.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminOrder.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:28:25.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Config.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\Untils\\Config.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Untils\\Config.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\Untils\\Config.cs",
+              "RelativeToolTip": "..\\DataAccess\\Untils\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:15:50.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T08:54:18.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaleWPFApp.csproj",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\SaleWPFApp.csproj",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\SaleWPFApp.csproj",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\SaleWPFApp.csproj",
+              "RelativeToolTip": "..\\SaleWPFApp\\SaleWPFApp.csproj",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T08:52:48.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:15:03.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\Untils\\Session.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Untils\\Session.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\Untils\\Session.cs",
+              "RelativeToolTip": "..\\DataAccess\\Untils\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:15:39.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "E:\\SourceCode\\PRN221\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "..\\BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T08:54:08.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemberFilter.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\Model\\MemberFilter.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Model\\MemberFilter.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\Model\\MemberFilter.cs",
+              "RelativeToolTip": "..\\DataAccess\\Model\\MemberFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:38:43.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminProductCreate.xaml.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminProductCreate.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\AdminProductCreate.xaml.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\AdminProductCreate.xaml.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\AdminProductCreate.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwDYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:55:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderFilter.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\Model\\OrderFilter.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Model\\OrderFilter.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\Model\\OrderFilter.cs",
+              "RelativeToolTip": "..\\DataAccess\\Model\\OrderFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:38:48.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartWindown.xaml.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\CartWindown.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\CartWindown.xaml.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\CartWindown.xaml.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\CartWindown.xaml.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAQwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:56:33.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SaleWPFApp\\Home.xaml.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\SaleWPFApp\\Home.xaml.cs",
+              "RelativeToolTip": "..\\SaleWPFApp\\Home.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwE0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:56:35.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\ProductDAO.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "..\\DataAccess\\ProductDAO.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAA4wCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:42:06.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\MemberDAO.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\MemberDAO.cs",
+              "RelativeToolTip": "..\\DataAccess\\MemberDAO.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAwwJ8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:40:09.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\OrderDAO.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "..\\DataAccess\\OrderDAO.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:38:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductManagerContext.cs",
+              "DocumentMoniker": "E:\\SourceCode\\PRN221\\BusinessObject\\Model\\ProductManagerContext.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\Model\\ProductManagerContext.cs",
+              "ToolTip": "E:\\SourceCode\\PRN221\\BusinessObject\\Model\\ProductManagerContext.cs",
+              "RelativeToolTip": "..\\BusinessObject\\Model\\ProductManagerContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:36:57.415Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
