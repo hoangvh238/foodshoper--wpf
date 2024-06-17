@@ -1,0 +1,14 @@
+E:\SourceCode\PRN221\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+E:\SourceCode\PRN221\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+E:\SourceCode\PRN221\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+E:\SourceCode\PRN221\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+E:\SourceCode\PRN221\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

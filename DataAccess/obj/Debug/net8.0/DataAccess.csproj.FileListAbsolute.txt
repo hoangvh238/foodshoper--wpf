@@ -1,0 +1,15 @@
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\SourceCode\PRN221\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\SourceCode\PRN221\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\SourceCode\PRN221\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\SourceCode\PRN221\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+E:\SourceCode\PRN221\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\SourceCode\PRN221\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
