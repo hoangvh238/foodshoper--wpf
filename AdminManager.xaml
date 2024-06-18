@@ -1,0 +1,43 @@
+﻿<Window x:Class="SaleWPFApp.AdminManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SaleWPFApp"
+        mc:Ignorable="d"
+        Title="Admin" Height="650" Width="1200">
+    <Window.Resources>
+        <ResourceDictionary Source="StyleResource.xaml"></ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <DockPanel>
+            <Grid DockPanel.Dock="Top" Height="40">
+                <Border Padding="10 0">
+                    <DockPanel VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <Image Source="Resource/logo/logo.png" Width="50" Height="30" Margin="0 0 5 0"></Image>
+                            <TextBlock VerticalAlignment="Center" Style="{StaticResource ResourceKey=headingSecorndary}" Foreground="#FF03FF00"><Run FontWeight="Bold" Text="Foodb  "/></TextBlock>
+                        </StackPanel>
+                        <Button Content="Logout" Background="Transparent" BorderThickness="0" Width="50" HorizontalAlignment="Right" Click="Button_Logout"/>
+                    </DockPanel>
+                </Border>
+            </Grid>
+          <Menu DockPanel.Dock="Top"  Height="24"  Width="180">
+    <MenuItem Header="Products" BorderBrush="AliceBlue" Foreground="Black" Click="MenuItem_Click_1" FontWeight="Bold">
+        <MenuItem Header="Products Manager" FontSize="14"/>
+    </MenuItem>
+    <MenuItem Header="Member" Foreground="Black" Click="MenuItem_Click" FontWeight="Bold">
+        <MenuItem Header="Member Manager" FontSize="14"/>
+    </MenuItem>
+    <MenuItem Header="Order" Click="MenuItem_Click_2" FontWeight="Bold">
+        <MenuItem Header="List orders" FontSize="14"/>
+    </MenuItem>
+</Menu>
+
+            <Grid>
+                <Image x:Name="logo"  Width="300" Height="200" Margin="0 0 5 0"></Image>
+                <Frame x:Name="frameMain" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" NavigationUIVisibility="Hidden" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" />
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>
